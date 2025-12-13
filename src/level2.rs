@@ -1,0 +1,26 @@
+// Matrix-vector and matrix operations
+pub mod gemv;
+pub mod gbmv;
+pub mod ger;
+pub mod gerc;
+pub mod geru;
+pub mod hemv;
+pub mod hbmv;
+pub mod her;
+pub mod her2;
+pub mod hpmv;
+pub mod hpr;
+pub mod hpr2;
+pub mod symv;
+pub mod sbmv;
+pub mod spmv;
+pub mod spr;
+pub mod spr2;
+pub mod syr;
+pub mod syr2;
+pub mod trmv;
+pub mod trsv;
+pub mod tbmv;
+pub mod tbsv;
+pub mod tpmv;
+pub mod tpsv;
